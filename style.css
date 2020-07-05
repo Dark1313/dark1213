@@ -457,6 +457,14 @@ textarea {
         width: 250px;
     }
 }
+@media (max-width: 640px) {
+    .our-services-img img {
+        display: block;
+        width: auto;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+}
 @media (max-width: 568px) {
     .img img {
         display: block;
